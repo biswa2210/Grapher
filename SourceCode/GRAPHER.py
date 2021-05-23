@@ -1,5 +1,11 @@
+'''
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+'''
 import matplotlib.pyplot as plt
 import numpy as np
+
 print("\nHELLO SIR I AM GRAPHER \nI PLOT GRAPH OR ONE CURVE THROUGH POINTS [(X,Y) FORMAT]\nPLEASE GIVE ME POINTS FOR PLOTING----->\n")
 t=input("Print the title of the graph :: ")
 xl=input("Enter name of x-axis : ")
