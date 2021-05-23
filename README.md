@@ -1,6 +1,6 @@
 # GRAPHER :star_struck: :clipboard: :chart_with_upwards_trend: :chart_with_downwards_trend: :computer: :open_file_folder:
 
-[![Generic badge](https://img.shields.io/badge/hand%20-gesture-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-numpy-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module%20-cv2-success)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/computer-vision-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-math-critical)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/python-3.6-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/pycharm-2019.3.5-blue)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/python-3.6-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%201.18.2-numpy-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%203.2.1-matplotlib-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/for%20python%203.6.2-pyinstaller-ff69b4)](https://shields.io/)
 <br>
 
 ***This new GRAPHER Software using Python3 is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
