@@ -1,4 +1,3 @@
-# 
 # GRAPHER :star_struck: 
 
 [![Generic badge](https://img.shields.io/badge/hand%20-gesture-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-numpy-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module%20-cv2-success)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/computer-vision-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-math-critical)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/python-3.6-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/pycharm-2019.3.5-blue)](https://shields.io/)
@@ -16,13 +15,9 @@
 
 </div align="justified">
 
+Graph plotting is a very common and impotant. I made this software Grapher for get plotted graph as result of user input co-ordinates. First of all we have to enter how many points we want to plot. Then we have to input the x and y co-ordinates accordingly. Then we can see the graph plot, slope and also a place to write the file name to save our graph. We can see the output with accurate graph plot and x and y co-ordinates' name written. 
  
 </div>
-
-## The Software uses :point_down:
- - [x] 
-
-
 
 ## Purpose :point_down:
 
@@ -45,16 +40,9 @@
 
 ```bash
 HAND-GESTURE-RECOGNITION
-     ├── .idea
-     |      ├── inspectionProfiles
-     |      |          └── profiles_settings.xml
-     |      ├── HAND GESTURE RECOGNITION.iml
-     |      ├── misc.xml
-     |      └── modules.xml
-     ├── capture.png
-     ├── hand gesture recognition.py
-     └── part1.py
-
+      └── source code
+              └── 
+              
 ```                       
 ## Making :point_down:
 
@@ -66,9 +54,9 @@ HAND-GESTURE-RECOGNITION
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/hg1.PNG"><img src="pics/hg1.PNG" width="400" height= "250"></a> 
+<a href="pics/gr1.jpeg"><img src="pics/gr1.jpeg width="800" height= "500"></a> 
 
-<a href="pics/hg2.PNG"><img src="pics/hg2.PNG" width="400" height= "250"></a>
+<a href="pics/gr2.PNG"><img src="pics/gr2.PNG" width="800" height= "500"></a>
 </div>
 
 
