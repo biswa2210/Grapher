@@ -54,9 +54,9 @@ HAND-GESTURE-RECOGNITION
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/gr1.jpeg"><img src="pics/gr1.jpeg width="800" height= "500"></a> 
+<a href="pics/gr1.jpeg"><img src="pics/gr1.jpeg" width="800" height= "500"></a> 
 
-<a href="pics/gr2.PNG"><img src="pics/gr2.PNG" width="800" height= "500"></a>
+<a href="pics/gr2.jpeg"><img src="pics/gr2.jpeg" width="800" height= "500"></a>
 </div>
 
 
