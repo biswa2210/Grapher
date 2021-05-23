@@ -35,8 +35,7 @@ Graph is a diagram showing the relation between variable quantities, typically o
 ```bash
 HAND-GESTURE-RECOGNITION
       └── source code
-              └── 
-              
+              └── GRAPHER.py           
 ```                       
 ## Making :point_down:
 
