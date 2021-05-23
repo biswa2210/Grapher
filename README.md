@@ -28,7 +28,10 @@ User just has to follow the instructions in the output and give data accordingly
 
 ## Importance :point_down:
 
+</div align="justified">
+
 Graph is a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles. A graph is a planned drawing, consisting of lines and relating numbers to one another. With the use of color and a little imagination you can quickly whip up a professional looking graph in no time at all. With technology at your fingertips you can make use of the computer. This software helps user to make graphs in just some seconds.
+</div>
 
 ## Folder Structure :point_down:
 
