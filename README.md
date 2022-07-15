@@ -23,6 +23,10 @@
 Graph plotting is a very common and impotant. Graphs are a common method to visually illustrate relationships in the data. The purpose of a graph is to present data that are too numerous or complicated to be described adequately in the text and in less space. Do not, however, use graphs for small amounts of data that could be conveyed succinctly in a sentence. Likewise, do not reiterate the data in the text since it defeats the purpose of using a graph. If the data shows pronounced trends or reveals relations between variables, a graph should be used. If the data doesn't show any significant trend in the evidence, a graph is not the figure of choice.Although there are myriad computer programs that can generate a graph, the author must still heed some basic principles. A basic requirement for a graph is that it is clear and readable. This is determined not only by the font size and symbols but by the type of graph itself. It is important to provide a clear and descriptive legend for each graph. Graphs may have several parts, depending on their format: I made this software Grapher for get plotted graph as result of user input co-ordinates. First of all we have to enter how many points we want to plot. Then we have to input the x and y co-ordinates accordingly. Then we can see the graph plot, slope and also a place to write the file name to save our graph. We can see the output with accurate graph plot and x and y co-ordinates' name written. This software is very easy to use. 
 </div>
 
+## GRAPHER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=lQ1k8lPvalg&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=2">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
+
 ## Purpose :point_down:
 
 I have made this to make graph plotting a very easy work for anyone. It is to save our time and energy. 
